@@ -2,4 +2,4 @@
 
 http://klenina-ann.github.io/web-developer-assignments/
 
-Version: 0.0.3
+Version: 0.0.4
